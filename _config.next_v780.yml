@@ -5,3 +5,11 @@ back2top:
 
 local_search:
   enable: true
+
+utteranc:
+  enable: true
+  repo: XhosaS/xhosas.github.io
+  pathname: pathname
+  # theme: github-light,github-dark,github-dark-orange
+  theme: github-light
+  cdn: https://utteranc.es/client.js
