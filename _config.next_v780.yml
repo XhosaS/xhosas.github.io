@@ -1,0 +1,7 @@
+scheme: Pisces
+
+back2top:
+  scrollpercent: true
+
+local_search:
+  enable: true
