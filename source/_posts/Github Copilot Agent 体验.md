@@ -1,3 +1,9 @@
+---
+title: Github Copilot Agent 体验.md
+date: 2025-02-10 11:47:46
+tags:
+---
+
 2025 年 2 月，Github Copilot 在 Vscode Insiders 中推出了模仿 Cursor 的 Agent 模式，详细资料：[https://code.visualstudio.com/docs/copilot/copilot-edits#_use-agent-mode-preview](https://code.visualstudio.com/docs/copilot/copilot-edits#_use-agent-mode-preview)
 
 > 该代理内置的工具如下：
